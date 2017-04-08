@@ -10,5 +10,13 @@
     "font-awesome"
   ],
   "author": "Zao Soula <contact@zaosoula.fr> (https://zaosoula.fr)",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zarque/font-awesome-brand-array-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zarque/font-awesome-brand-array-js/issues"
+  },
+  "homepage": "https://github.com/zarque/font-awesome-brand-array-js#readme"
 }
