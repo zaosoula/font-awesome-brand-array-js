@@ -1,0 +1,14 @@
+{
+  "name": "font-awesome-brand",
+  "version": "1.0.0",
+  "description": "FontAwesome Brand Array is an array that identifies icons from FontAwesome with their name, color, unicode code and domain.",
+  "main": "font-awesome-brand.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "font-awesome"
+  ],
+  "author": "Zao Soula <contact@zaosoula.fr> (https://zaosoula.fr)",
+  "license": "MIT"
+}
